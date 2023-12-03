@@ -4,7 +4,7 @@ This project can be used to detect the faces present in a picture or on a live w
 ## Getting Started
 1. Clone the repo to you system:
    ```
-   https://github.com/nimay-kamarsu/Face-Detection.git
+   git clone https://github.com/nimay-kamarsu/Face-Detection.git
    ```
 2. Install the required libraries:
    ```
